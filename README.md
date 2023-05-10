@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Python course / SQL**
 
-- 🌱 I’m currently learning **print('DCI/Python Course') / Databases SQL**
+- 🌱 I’m currently learning **Python / Databases SQL / Frameworks**
 
 - 💬 Ask me about **Python, JavaScript , HTML , CSS , SQL , Django**
 
